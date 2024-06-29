@@ -1,4 +1,5 @@
 ## Hi there, I'm Fernanda!👋
+✨How are you? 
 
 <!--
 **Fernanda20070628/Fernanda20070628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
